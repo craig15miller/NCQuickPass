@@ -1,0 +1,9 @@
+{
+  "short_name": "QuickPassTracker",
+  "name": "NC Quick Pass Expense Tracker",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#002b49",
+  "background_color": "#ffffff"
+}
