@@ -19,7 +19,7 @@ Managing and tracking toll road expenses, account reloads, and transit costs can
 ## Author
 * **Name:** Craig Miller
 * **Email:** craig15miller@outlook.com
-* **Website:** NC Quick Pass
+* **Website:** [NC Quick Pass](https://www.ncquickpass.com.co)
 * **Bio:** Alex Morgan is a seasoned Full-Stack Software Engineer and Systems Architect with over 12 years of experience building scalable web applications and developer tools. A master in clean coding practices and modular design, Alex is deeply passionate about open-source collaboration and mentoring aspiring developers. Known for a naturally helpful and community-driven approach, Alex regularly contributes to civic tech and transportation utility projects that make everyday logistics easier for everyone.
 
 
